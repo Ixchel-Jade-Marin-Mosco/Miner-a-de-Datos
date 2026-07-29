@@ -7,3 +7,5 @@
 - [Grafica de dispersion](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Grafica%20de%20dispersion.py)
 - [Diagrama de arbol](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Diagrama%20de%20arbol.jpg)
 - [Metodos estadisticos](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Metodos%20estadisticos.py)
+### Tercer parcial
+- [K-means](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/K-means.py)
