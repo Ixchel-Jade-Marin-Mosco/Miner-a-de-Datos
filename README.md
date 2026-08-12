@@ -12,3 +12,4 @@
 - [K-means 2](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/K-means2.py)
 - [Metodos de agrupamiento no supervisado](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/M%C3%A9todos%20de%20agrupamiento%20no%20supervisado.pdf)
 - [Redneuronal](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Redneuronal.py)
+- [Patronajes](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Patronajes.py)
