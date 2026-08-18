@@ -13,3 +13,4 @@
 - [Metodos de agrupamiento no supervisado](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/M%C3%A9todos%20de%20agrupamiento%20no%20supervisado.pdf)
 - [Redneuronal](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Redneuronal.py)
 - [Patronajes](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/Patronajes.py)
+- [RedesSociales](https://github.com/Ixchel-Jade-Marin-Mosco/Miner-a-de-Datos/blob/main/PracticaRedesSociales.py)
